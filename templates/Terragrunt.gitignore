@@ -4,3 +4,7 @@
 # Terragrunt debug output file (when using `--terragrunt-debug` option)
 # See: https://terragrunt.gruntwork.io/docs/reference/cli-options/#terragrunt-debug
 terragrunt-debug.tfvars.json
+
+# Terragrunt rendered output file (when running `terragrunt render-json` command)
+# See: https://terragrunt.gruntwork.io/docs/reference/cli-options/#render-json
+terragrunt_rendered.json
